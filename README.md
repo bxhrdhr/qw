@@ -102,7 +102,7 @@
 			<a href="https://www.123pan.com/s/ynz5Vv-ETM3d.html">🤪😜🌈🎭🧩陌生人</a>
 		</div>
 		<div class="card">
-			<a href="https://www.kdocs.cn/l/ckKjHDEOQEry">支持作者</a>
+			<a href="https://www.kdocs.cn/l/ckKjHDEOQEry">打赏作者制作实属不易</a>
 		</div>
   </div>
   
@@ -157,6 +157,37 @@
 
 
 
+  <div class="gnlieb">
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wkmscj">破解辅助和制作辅助教程</a>
+		</div>
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wlbk1a">小游戏破解大全</a>
+		</div>
+  </div>
+  
+  
+   
+  <div class="gnlieb">
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wtwbpe">虚拟机</a>
+		</div>
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wtwbva">黄鸟抓包教程</a>
+		</div>
+  </div>
+  
+  
+  
+  <div class="gnlieb">
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wkpd1g">刷root权限教程</a>
+		</div>
+		<div class="card">
+			<a href="https://wwvx.lanzoul.com/b04wkj3ze">gg修改器抓功能脚本教程</a>
+		</div>
+  </div>
+  
 
 
 
