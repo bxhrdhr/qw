@@ -1,8 +1,4 @@
 
-
-
-
-<!DOCTYPE html>
 <!-- 
             ◢＼　 ☆　　 ／◣
     　  　∕　　﹨　╰╮∕　　﹨
@@ -15,7 +11,7 @@
 -->
 <html lang="zh-CN">
 	<head>
-		<meta 	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>白嫖云</title>
  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.js"></script>
         <!--iconfont-阿里巴巴矢量图标库上面这个是音乐，删了就没了-->
@@ -76,7 +72,6 @@
 	</style>
 
 
-</script>
 
 
 
