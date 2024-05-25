@@ -110,6 +110,16 @@
   
   
   
+  <div class="gnlieb">
+		<div class="card">
+			<a href="https://bbs.binmt.cc/forum.php?mod=guide&view=hot&mobile=2">mt论坛</a>
+		</div>
+		<div class="card">
+			<a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人</a>
+		</div>
+  </div>
+
+
   
   
   
@@ -146,14 +156,6 @@
 		</div>
   </div>
 
-  <div class="gnlieb">
-		<div class="card">
-			<a href="https://bbs.binmt.cc/forum.php?mod=guide&view=hot&mobile=2">mt论坛</a>
-		</div>
-		<div class="card">
-			<a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人</a>
-		</div>
-  </div>
 
 
 
