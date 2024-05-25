@@ -209,11 +209,6 @@
 <script>var sf = new Snowflakes({color: "pink"});</script>
 
 
-	</body>
- 
-</html>
-
-
 
 
 
