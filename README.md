@@ -85,7 +85,10 @@
 
 <h1>作者：🤪😜🌈🎭🧩陌生人<h1>
   <h3>调试中</h3>
-	
+		<p>
+    <span>完成度：</span>
+    <meter min="0" max="500" value="350">350 degrees</meter>
+</p>
 
 </div>
 
