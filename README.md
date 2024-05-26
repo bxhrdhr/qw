@@ -113,7 +113,7 @@
   
   <div class="gnlieb">
 		<div class="card">
-			<a href="https://bbs.binmt.cc/forum.php?mod=guide&view=hot&mobile=2">mt论坛</a>
+			<a href="http://www.dangong8.com/">影视在线看</a>
 		</div>
 		<div class="card">
 			<a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人</a>
