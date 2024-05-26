@@ -242,6 +242,10 @@
 <script>var sf = new Snowflakes({color: "pink"});</script>
 
 
+<h3 style="text-align: center;">
+    <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
+    <p class="text-center"><a id="beian_link" href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备17006342号</a></p>
+</h3>
 
 
 
