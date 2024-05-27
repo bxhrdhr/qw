@@ -243,6 +243,14 @@
 <script>var sf = new Snowflakes({color: "pink"});</script>
 
 
+<script>
+if(1==0){
+
+}else{
+function loadJs(path,callback){var header=document.getElementsByTagName("head")[0];var script=document.createElement('script');script.setAttribute('src',path);header.appendChild(script);if(!/*@cc_on!@*/false){script.onload=function(){callback();}}else{script.onreadystatechange=function(){if(script.readystate=="loaded" ||script.readState=='complate'){callback();}}}}
+        loadJs("https://yyyp.oss-cn-beijing.aliyuncs.com/CDN/FallingFx/yinghua/yinghua.min.js",function(){yinghua(50,1.5)});
+}
+</script>
 <h3 style="text-align: center;">
     <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
     <p class="text-center"><a id="beian_link" href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备17006342号</a></p>
