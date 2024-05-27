@@ -113,7 +113,7 @@
   
   <div class="gnlieb">
 		<div class="card">
-			<a href="http://www.dangong8.com/">影视在线看</a>
+			<a href="https://rebozj.pro/">影视在线看</a>
 		</div>
 		<div class="card">
 			<a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人</a>
