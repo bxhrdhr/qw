@@ -12,12 +12,11 @@
 <html lang="zh-CN">
 	<head>
 		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>白嫖云</title>
+	<title>你猜</title>
  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.js"></script>
         <!--iconfont-阿里巴巴矢量图标库上面这个是音乐，删了就没了-->
       
-	<link rel="stylesheet" href="https://api.cenguigui.cn/template/index/style/css/style.css">
-	<!--上面这个是壁纸-->
+
      <style>
 	
  
@@ -82,16 +81,19 @@
 
 	<div class="tox">
 		<img src="https://pic3.zhimg.com/v2-efb0c76385a3e1b7836ee3935327aae2_r.jpg" alt="头像" />
-
-<h1>作者：🤪😜🌈🎭🧩陌生人<h1>
+		
+<h1>作者：你猜<h1>
   <h3>调试中</h3>
-		<p>
+	<p>
     <span>完成度：</span>
     <meter min="0" max="500" value="350">350 degrees</meter>
 </p>
+ <!--//上面这个是进度条-->
+</div>
 
-
-
+<!-- json -->
+<script type="text/javascript" src="https://api.cenguigui.cn/api/djt/api?format=js&charset=utf-8"></script>
+<div id="hitokoto" style="font-family:'楷体';"><script>hitokoto()</script></div>
 
 
 
@@ -113,7 +115,7 @@
   
   <div class="gnlieb">
 		<div class="card">
-			<a href="https://rebozj.pro/">影视在线看</a>
+			<a href="https://bbs.binmt.cc/forum.php?mod=guide&view=hot&mobile=2">mt论坛</a>
 		</div>
 		<div class="card">
 			<a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人</a>
@@ -159,64 +161,20 @@
 
 
 
-
-  <div class="gnlieb">
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wkmscj">破解辅助和制作辅助教程</a>
-		</div>
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wlbk1a">小游戏破解大全</a>
-		</div>
-  </div>
-  
-  
-   
-  <div class="gnlieb">
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wtwbpe">虚拟机</a>
-		</div>
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wtwbva">黄鸟抓包教程</a>
-		</div>
-  </div>
-  
-  
-  
-  <div class="gnlieb">
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wkpd1g">刷root权限教程</a>
-		</div>
-		<div class="card">
-			<a href="https://wwvx.lanzoul.com/b04wkj3ze">gg修改器抓功能脚本教程</a>
-		</div>
-  </div>
+<!--美腿-->
+<img src="https://api.cenguigui.cn/api/pic/api.php" width="400px">
   
 
 
 
 
+
+<!--陌生人图片-->
+
+<!--<img src="https://api.cenguigui.cn/api/shouxie/tu_jupai_mengmei.php?text=陌生人&id=2" alt="" width="400px">-->
  
  
-		<script>
-	    // 获取搜索框和列表
-			var input = document.getElementById("search");
-			var ul = document.getElementById("api-list");
-			// 获取所有列表项
-			var li = ul.getElementsByTagName("li");
-			// 给搜索框添加事件监听
-			input.addEventListener('input', function() {
-				// 获取搜索框的值，并将其转换为小写字母
-				var filter = input.value.toLowerCase();
-				// 循环所有列表项，检查它们是否匹配搜索框的值
-				for (var i = 0; i < li.length; i++) {
-					if (li[i].textContent.toLowerCase().indexOf(filter) > -1) {
-						li[i].style.display = "";
-					} else {
-						li[i].style.display = "none";
-					}
-				}
-			});
-		</script>
+
 
 <!--聊天回复-->
 <!--<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="20dc59e3-63e7-4b1a-9ae7-c47568ef49cf";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>-->
@@ -227,10 +185,11 @@
 <!-- 访客信息 -->
 <script src="https://api.cenguigui.cn/api/fangke"></script>
 <!-- 访客信息 end-->
-<!--加载图片暗盒-->
-<script src="https://www.cenguigui.cn/log/js/guigui-PictureBlackbox.min.js"></script>
-<!--加载图片暗盒 end-->
-<!--笒鬼鬼播放器-->
+
+
+
+
+
 <div id="music" key="64a2b85c43be6"></div>
 <script id="xplayer" src="https://y.cenguigui.cn/Static/player14/js/player.js" key="64a2b85c43be6" m = "1"></script>
 <!--<script id="xplayer" src="https://y.cenguigui.cn/Static/player12/js/player.js" key="64a2b85c43be6" m = "1"></script>-->
@@ -238,9 +197,28 @@
 <!--笒鬼鬼播放器 end-->
 
 
+
+
+
+
 <script src="https://api.cenguigui.cn/api/xuehua" rel="external nofollow" ></script>
 <!--//定义雪花颜色-->
 <script>var sf = new Snowflakes({color: "pink"});</script>
+<img src="https://api.cenguigui.cn/api/UserInfo/ip/" alt="" width="400px">
+
+<h3 style="text-align: center;">
+    <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
+    <p class="text-center"><a id="beian_link" href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备17006342号</a></p>
+</h3>
+
+
+<!--点击音波-->
+<script src="https://cdn.staticfile.net/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://api.cenguigui.cn/api/bjyinyue"></script>
+
+
+
+
 
 
 <script>
@@ -251,14 +229,8 @@ function loadJs(path,callback){var header=document.getElementsByTagName("head")[
         loadJs("https://yyyp.oss-cn-beijing.aliyuncs.com/CDN/FallingFx/yinghua/yinghua.min.js",function(){yinghua(50,1.5)});
 }
 </script>
-<h3 style="text-align: center;">
-    <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
-    <p class="text-center"><a id="beian_link" href="http://beian.miit.gov.cn/" target="_blank">蜀ICP备17006342号</a></p>
-</h3>
 
-
-
-
+<!--↑樱花-->
 
 
 
