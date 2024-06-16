@@ -81,7 +81,8 @@
 
 	<div class="tox">
 		<img src="https://pic3.zhimg.com/v2-efb0c76385a3e1b7836ee3935327aae2_r.jpg" alt="头像" />
-		
+		</div>
+  <div style="text-align: center;">
 <h1>作者：你猜<h1>
   <h3>调试中</h3>
 	<p>
@@ -89,11 +90,11 @@
     <meter min="0" max="500" value="350">350 degrees</meter>
 </p>
  <!--//上面这个是进度条-->
- 
+ </div>
 <!-- json -->
 <script type="text/javascript" src="https://api.cenguigui.cn/api/djt/api?format=js&charset=utf-8"></script>
 <div id="hitokoto" style="font-family:'楷体';"><script>hitokoto()</script></div>
-</div>
+
 
 
 
@@ -232,7 +233,6 @@ function loadJs(path,callback){var header=document.getElementsByTagName("head")[
 </script>
 
 <!--↑樱花-->
-
 
 
 
