@@ -161,7 +161,7 @@
 
 
 <!--美腿-->
-<img src="https://api.cenguigui.cn/api/pic/api.php" width="500px">
+<img src="https://api.cenguigui.cn/api/pic/api.php" width="800px">
   
 
 
@@ -203,7 +203,7 @@
 <script src="https://api.cenguigui.cn/api/xuehua" rel="external nofollow" ></script>
 <!--//定义雪花颜色-->
 <script>var sf = new Snowflakes({color: "pink"});</script>
-<img src="https://api.cenguigui.cn/api/UserInfo/ip/" alt="" width="500px">
+<img src="https://api.cenguigui.cn/api/UserInfo/ip/" alt="" width="800px">
 
 <h3 style="text-align: center;">
     <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
