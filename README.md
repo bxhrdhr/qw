@@ -90,7 +90,7 @@
     <meter min="0" max="500" value="350">350 degrees</meter>
 </p>
  <!--//上面这个是进度条-->
- </div>
+ 
 <!-- json -->
 <script type="text/javascript" src="https://api.cenguigui.cn/api/djt/api?format=js&charset=utf-8"></script>
 <div id="hitokoto" style="font-family:'楷体';"><script>hitokoto()</script></div>
