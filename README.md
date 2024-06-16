@@ -89,10 +89,12 @@
     <meter min="0" max="500" value="350">350 degrees</meter>
 </p>
  <!--//上面这个是进度条-->
-
+ 
 <!-- json -->
 <script type="text/javascript" src="https://api.cenguigui.cn/api/djt/api?format=js&charset=utf-8"></script>
 <div id="hitokoto" style="font-family:'楷体';"><script>hitokoto()</script></div>
+</div>
+
 
 
 
@@ -161,7 +163,7 @@
 
 
 <!--美腿-->
-<img src="https://api.cenguigui.cn/api/pic/api.php" width="800px">
+<img src="https://api.cenguigui.cn/api/pic/api.php" width="400px">
   
 
 
@@ -170,7 +172,7 @@
 
 <!--陌生人图片-->
 
-<!--<img src="https://api.cenguigui.cn/api/shouxie/tu_jupai_mengmei.php?text=陌生人&id=2" alt="" width="500px">-->
+<!--<img src="https://api.cenguigui.cn/api/shouxie/tu_jupai_mengmei.php?text=陌生人&id=2" alt="" width="400px">-->
  
  
 
@@ -203,7 +205,7 @@
 <script src="https://api.cenguigui.cn/api/xuehua" rel="external nofollow" ></script>
 <!--//定义雪花颜色-->
 <script>var sf = new Snowflakes({color: "pink"});</script>
-<img src="https://api.cenguigui.cn/api/UserInfo/ip/" alt="" width="800px">
+<img src="https://api.cenguigui.cn/api/UserInfo/ip/" alt="" width="400px">
 
 <h3 style="text-align: center;">
     <p class="text-center"><a href="https://v.16yun.cn/misc/agreement/law/" target="_blank">法律声明</a></p>
